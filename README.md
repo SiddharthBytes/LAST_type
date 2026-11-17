@@ -29,3 +29,4 @@ weak hearted people watch on your own risk<br>
 nothing is error everything is intial
 
 ## appearence
+![image](Screenshot 2026-11-17 193617.png)
