@@ -13,3 +13,19 @@
 2.streamlit for ui and frontend <br>
 3.base64 for decoding <br>
 4.time for tracking time <br>
+
+## why is it
+so if you are asking why is it  while it do nothing <br>
+there is app in playstore that do nothing name is nothing<br>
+and people have even downloaded it so my app is atleast for fun<br>
+
+## future improvements
+glitch animations<br>
+## what current version lacks
+animation the current version dont have animation i am just using rapid changes to make it feel like animations
+
+## note
+weak hearted people watch on your own risk<br>
+nothing is error everything is intial
+
+## appearence
